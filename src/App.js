@@ -60,7 +60,7 @@ class App extends React.Component{
               <div className="row h-100 align-items-center">
                 <div className="col-12 text-center">
                   <h1 className="font-weight-light">Where all of your doughnut dreams come true!</h1>
-                  <p className="lead">Excitment with Every byte</p>
+                  <p className="lead">Excitement with Every <code>Byte</code></p>
                 </div>
               </div>
             </div>
