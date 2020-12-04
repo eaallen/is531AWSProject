@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.masthead {
+  height: 20vh;
+  min-height: 100px;
+  
+}

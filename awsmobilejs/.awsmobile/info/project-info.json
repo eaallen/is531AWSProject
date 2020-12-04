@@ -1,0 +1,18 @@
+{
+	"ProjectName": "app",
+	"ProjectPath": "/home/ec2-user/environment/app",
+	"InitializationTime": "",
+	"LastConfigurationTime": "",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendLastSyncTime": "",
+	"BackendLastBuildTime": "",
+	"BackendLastPushTime": "",
+	"BackendProjectID": "",
+	"BackendProjectName": "",
+	"BackendProjectConsoleUrl": "",
+	"BackendProjectCreationTime": "",
+	"BackendProjectLastUpdatedTime": "",
+	"Framework": "react"
+}
